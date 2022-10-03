@@ -2,11 +2,11 @@
 
 ### <h3></h3>
 
-  <p><b>• 👶🏼 Brazilian;</b></p>
+  <!--<p><b>• 👶🏼 Brazilian;</b></p>
   <p><b>• 🎒 I am a student at the Federal Institute of Alagoas - IFAL;</b></p>
   <p><b>• 👨‍💻 I appreciate and study programming languages, markup and stylization;</b></p>
   <p><b>• 👨‍🎓 I studied informatics focused on creating websites and graphic design, all focused on the business sector and digital marketing - Microcamp;</b></p>
-  <p><b>• 🌱 I’m currently learning HTML, CSS and JavaScript.</b></p>
+  <p><b>• 🌱 I’m currently learning HTML, CSS and JavaScript.</b></p>-->
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ##
 
-<h2>contact me:</h2>
+<!--<h2>contact me:</h2>
 
 <div>
 
@@ -69,6 +69,6 @@
   
   <a href="mailto:chsf2@aluno.ifal.edu.br?subject=Hello%2C%20i'm%20from%20GitHub!&body=I'm..." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/CayoHenrique250/CayoHenrique250/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Natally02/Natally02/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</div>-->
